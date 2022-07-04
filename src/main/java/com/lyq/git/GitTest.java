@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("分支提交");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.Out.println("修改代码了");
     }
 }
